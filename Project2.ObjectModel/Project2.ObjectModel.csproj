@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class2.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Project2DB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
